@@ -1,0 +1,22 @@
+insert into employees 
+		values(1,'Srikanth','Telugu','sk@gmail.com');
+insert into employees 
+		values(2,'Raja','Sekhar','raj@gmail.com');
+insert into employees 
+		values(3,'Pavan','Teja','tej@gmail.com');
+
+
+
+import React, { Component } from 'react'
+
+	export default class FooterComponent extends Component {
+ 	 render() {
+    	return (
+      	<div>
+        	<footer className='footer'>
+            <span className='text-muted'>All Right Reserved 2023 &copy;NIYAZ_SIR </span>
+            </footer>
+     	 </div>
+    	)
+  	}
+	}

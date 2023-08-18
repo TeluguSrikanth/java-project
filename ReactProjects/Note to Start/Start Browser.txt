@@ -1,0 +1,4 @@
+
+C:\Users\SRIKANTH\Desktop\ReactProjects\ReactProject\react_frontend>code .
+
+C:\Users\SRIKANTH\Desktop\ReactProjects\ReactProject\react_frontend>npm start
